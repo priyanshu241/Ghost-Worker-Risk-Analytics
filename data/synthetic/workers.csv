@@ -1,0 +1,9 @@
+worker_id,label,estimated_count,income_volatility,platform_dependency,avg_monthly_income,district_id,risk_label
+w1,Gig delivery riders,42000,0.72,0.9,8500,d1,1
+w2,Auto-rickshaw drivers,38000,0.68,0.85,9200,d2,1
+w3,E-waste collectors,12000,0.65,1.0,4800,d2,1
+w4,Textile home workers,55000,0.58,0.75,6200,d3,1
+w5,Street food vendors,29000,0.45,0.6,7100,d1,0
+w6,Daily construction,67000,0.38,0.55,11000,d4,0
+w7,Domestic workers,89000,0.22,0.48,5500,d3,0
+w8,Agricultural laborers,120000,0.18,0.45,4200,d4,0

@@ -1,0 +1,5 @@
+district_id,name,state,urbanisation_rate,gig_platform_penetration
+d1,Dharavi,Maharashtra,0.95,0.72
+d2,Yamuna Paar,Delhi,0.88,0.65
+d3,Vikhroli,Maharashtra,0.91,0.68
+d4,Badarpur,Delhi,0.82,0.55
