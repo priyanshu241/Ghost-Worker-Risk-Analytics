@@ -1,0 +1,6 @@
+skill_id,name,automation_risk,transferability_score
+s1,Mobility and transit,0.75,0.4
+s2,Manual and construction,0.55,0.55
+s3,Home services,0.42,0.65
+s4,Food and agriculture,0.48,0.6
+s5,Digital gig work,0.82,0.35

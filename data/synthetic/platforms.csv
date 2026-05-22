@@ -1,0 +1,6 @@
+platform_id,name,exit_probability,digital_integration_score,worker_count
+p1,Zomato/Blinkit,0.72,0.95,42000
+p2,Ola/Rapido,0.68,0.9,38000
+p3,Urban Company,0.45,0.8,144000
+p4,NREGA portal,0.12,0.4,29000
+p5,BuildTech,0.38,0.65,187000
